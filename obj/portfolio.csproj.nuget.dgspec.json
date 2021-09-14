@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio\\portfolio.csproj": {}
+    "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio\\portfolio.csproj": {
+    "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio\\portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio.csproj",
         "projectName": "portfolio",
-        "projectPath": "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio\\portfolio.csproj",
+        "projectPath": "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio.csproj",
         "packagesPath": "C:\\Users\\ysspe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio\\obj\\",
+        "outputPath": "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ysspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
