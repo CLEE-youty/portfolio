@@ -1,16 +1,20 @@
-/* /Pages/Index.razor.rz.scp.css */
+/* /Components/Atoms/Headding.razor.rz.scp.css */
+h2[b-8sof1jx8k2] {
+    text-align: center;
+}
+/* /Components/Organisms/FirstView.razor.rz.scp.css */
 /* Color Style */
-.c-white[b-t8ds9oklp0] {
+.c-white[b-ako71634y3] {
     color: #FFFFFF;
 }
 
 /* Font Style */
-.futura-m[b-t8ds9oklp0] {
+.futura-m[b-ako71634y3] {
     font-family: "futura_m";
 }
 
 /* FV content */
-.fv[b-t8ds9oklp0] {
+.fv[b-ako71634y3] {
     width: 100%;
     height: calc(100vh - 3.5rem);
     overflow: hidden;
@@ -19,7 +23,7 @@
 
 
 /* title */
-.title[b-t8ds9oklp0] {
+.title[b-ako71634y3] {
     position: absolute;
     overflow: hidden;
     top: 50%;
@@ -28,7 +32,7 @@
     margin-left: 11%;
 }
 
-.main_title_text[b-t8ds9oklp0] {
+.main_title_text[b-ako71634y3] {
     font-family: "futura_m";
     font-size: 6.2rem;
     line-height: 1;
@@ -37,7 +41,7 @@
     text-shadow: 0 10px 30px rgb(2 11 22 / 50%);
 }
 
-.main_title_description[b-t8ds9oklp0] {
+.main_title_description[b-ako71634y3] {
     font-family: "futura_r";
     font-size: 1.4rem;
     line-height: 1.5;
@@ -47,7 +51,7 @@
 
 
 /* logo */
-.blazor[b-t8ds9oklp0] {
+.blazor[b-ako71634y3] {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -60,20 +64,20 @@
     justify-content: center;
 }
 
-.logo[b-t8ds9oklp0] {
+.logo[b-ako71634y3] {
     position: relative;
     width: 40%;
     height: 40%;
 }
 
-.main_logo[b-t8ds9oklp0] {
+.main_logo[b-ako71634y3] {
     position: absolute;
     left: -15.5963%;
     top: 50%;
     transform: translate3d(0, -50%, 0);
 }
 
-.main_logo_text[b-t8ds9oklp0] {
+.main_logo_text[b-ako71634y3] {
     font-family: "futura_b";
     font-size: 5.8rem;
     letter-spacing: 0.1em;
@@ -82,23 +86,31 @@
 }
 
 /* moon logo */
-.moon_logo[b-t8ds9oklp0] {
+.moon_logo[b-ako71634y3] {
     margin-left: -35px;
     height: 400px;
     width: 400px;
     border-radius: 50%;
     box-shadow: 70px 70px 0 0 #d0d5d2;
 }
+/* /Components/Organisms/StandardPageList.razor.rz.scp.css */
+body[b-dpfpkfpq6v] {
+}
+/* /Pages/Index.razor.rz.scp.css */
+/* layout stlye */
+.main_layout[b-t8ds9oklp0] {
+    padding: 0 20px;
+}
+
+.section_layout[b-t8ds9oklp0] {
+    margin: 20px auto;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-y5pde0k6jk] {
-    position: relative;
-    display: flex;
-    flex-direction: column;
 }
 
 .main[b-y5pde0k6jk] {
     flex: 1;
-    height: 100vh;
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
@@ -140,9 +152,6 @@
 }
 
 @media (min-width: 641px) {
-    .page[b-y5pde0k6jk] {
-        flex-direction: row;
-    }
 
     .header[b-y5pde0k6jk] {
         width: 100vw;

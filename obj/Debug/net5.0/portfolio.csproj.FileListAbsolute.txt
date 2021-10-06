@@ -1271,3 +1271,14 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\portfolio.pdb
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\service-worker-assets.js
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Organisms\StandardPageList.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Organisms\StandardPageList.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Organisms\FirstView.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Organisms\FirstView.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Organisms\FirstView.razor.rz.scp.css
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Organisms\StandardPageList.razor.rz.scp.css
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Atoms\Headding.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Molecules\Component.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Molecules\Component.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Atoms\Headding.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Atoms\Headding.razor.rz.scp.css

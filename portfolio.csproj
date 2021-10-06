@@ -6,6 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\新しいフォルダー\**" />
+    <Content Remove="wwwroot\新しいフォルダー\**" />
+    <EmbeddedResource Remove="wwwroot\新しいフォルダー\**" />
+    <None Remove="wwwroot\新しいフォルダー\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="Pages\scss.razor" />
   </ItemGroup>
 
@@ -20,7 +27,20 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\新しいフォルダー\" />
+    <!-- extends watching group to include *.js files -->
+    <Watch Include="**\*.js;**\*.css" Exclude="node_modules\**\*;**\*.js.map;obj\**\*;bin\**\*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Components\Atoms\Headding.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Watch Remove="Components\Atoms\Headding.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Components\Atoms\Headding.razor.css" />
   </ItemGroup>
 
 </Project>

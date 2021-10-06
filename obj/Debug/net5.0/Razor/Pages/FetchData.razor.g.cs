@@ -79,6 +79,27 @@ using portfolio.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\ysspe\Documents\WorkSpace\portfolio\_Imports.razor"
+using portfolio.Components.Atoms;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\ysspe\Documents\WorkSpace\portfolio\_Imports.razor"
+using portfolio.Components.Molecules;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\ysspe\Documents\WorkSpace\portfolio\_Imports.razor"
+using portfolio.Components.Organisms;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {
