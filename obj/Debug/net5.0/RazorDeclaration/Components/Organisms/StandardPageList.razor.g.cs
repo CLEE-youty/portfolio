@@ -103,6 +103,13 @@ using portfolio.Components.Organisms;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 1 "C:\Users\ysspe\Documents\WorkSpace\portfolio\Components\Organisms\StandardPageList.razor"
+using BlazorLang;
+
+#line default
+#line hidden
+#nullable disable
     public partial class StandardPageList : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -110,6 +117,39 @@ using portfolio.Components.Organisms;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 13 "C:\Users\ysspe\Documents\WorkSpace\portfolio\Components\Organisms\StandardPageList.razor"
+       
+    public List<Book> books;
+    protected override void OnInitialized()
+    {
+        books = new List<Book>();
+        books.Add(new Book()
+        {
+            Image = "",
+            Title = "あいうえお",
+            Description = ""
+        }
+        );
+        books.Add(new Book()
+        {
+            Image = "",
+            Title = "かきくけこ",
+            Description = ""
+        }
+        );
+        books.Add(new Book()
+        {
+            Image = "",
+            Title = "さしすせそ",
+            Description = ""
+        }
+        );
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

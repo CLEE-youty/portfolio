@@ -4,6 +4,13 @@
 h2[b-8sof1jx8k2] {
     text-align: center;
 }
+/* /Components/Molecules/Card.razor.rz.scp.css */
+body[b-1z86mke5ml] {
+}
+
+h5[b-1z86mke5ml] {
+    color: red;
+}
 /* /Components/Organisms/FirstView.razor.rz.scp.css */
 /* Color Style */
 .c-white[b-ako71634y3] {
@@ -114,10 +121,14 @@ body[b-dpfpkfpq6v] {
 .main[b-y5pde0k6jk] {
     flex: 1;
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    padding-bottom: 20px;
 }
 
 .header[b-y5pde0k6jk] {
     background-color: transparent;
+    position: sticky;
+    height: 100%;
+    top: 0;
 }
 
 .top-row[b-y5pde0k6jk] {
@@ -156,9 +167,7 @@ body[b-dpfpkfpq6v] {
 @media (min-width: 641px) {
 
     .header[b-y5pde0k6jk] {
-        width: 100vw;
-        position: sticky;
-        top: 0;
+        padding: 4px 0;
     }
 
     .top-row[b-y5pde0k6jk] {
@@ -190,6 +199,7 @@ body[b-dpfpkfpq6v] {
     height: 3rem;
     display: none;
     line-height: 3rem;
+    margin: 4px 0;
 }
 
 .nav-title-text[b-u603n3jyus] {
@@ -213,6 +223,7 @@ body[b-dpfpkfpq6v] {
 }
 
 .nav-item[b-u603n3jyus] {
+    margin: 4px 0;
     font-size: 0.9rem;
 }
 

@@ -1278,7 +1278,8 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\O
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Organisms\FirstView.razor.rz.scp.css
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Organisms\StandardPageList.razor.rz.scp.css
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Atoms\Headding.razor.g.cs
-C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Molecules\Component.razor.g.cs
-C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Molecules\Component.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Atoms\Headding.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Atoms\Headding.razor.rz.scp.css
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Molecules\Card.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Molecules\Card.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Molecules\Card.razor.rz.scp.css

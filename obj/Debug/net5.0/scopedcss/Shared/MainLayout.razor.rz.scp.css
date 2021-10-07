@@ -4,10 +4,14 @@
 .main[b-y5pde0k6jk] {
     flex: 1;
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    padding-bottom: 20px;
 }
 
 .header[b-y5pde0k6jk] {
     background-color: transparent;
+    position: sticky;
+    height: 100%;
+    top: 0;
 }
 
 .top-row[b-y5pde0k6jk] {
@@ -46,9 +50,7 @@
 @media (min-width: 641px) {
 
     .header[b-y5pde0k6jk] {
-        width: 100vw;
-        position: sticky;
-        top: 0;
+        padding: 4px 0;
     }
 
     .top-row[b-y5pde0k6jk] {
