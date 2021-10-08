@@ -4,7 +4,7 @@ youty portfolio
 
 # DEMO
 
-https://user-images.githubusercontent.com/54761188/136489822-cb694232-ecc4-4168-978a-df1e4bbd8c42.png
+![](https://user-images.githubusercontent.com/54761188/136489822-cb694232-ecc4-4168-978a-df1e4bbd8c42.png)
 
 # Features
 
