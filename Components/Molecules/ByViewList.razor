@@ -1,0 +1,16 @@
+﻿
+<div class="byVew-flex d-flex justify-content-center">
+    <div class="text-light flex-equal">
+        <h3>@Item.ByViewTitle</h3>
+    </div>
+    <div class="text-light flex-equal">
+        <h3>@Item.ByViewHeadding</h3>
+        <h4>@Item.ByViewSmallHeadding</h4>
+        <p>@Item.ByViewDescription</p>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public ByView Item { get; set; }
+}

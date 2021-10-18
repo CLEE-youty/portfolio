@@ -1,40 +1,43 @@
-﻿@using BlazorLang;
+﻿@inject HttpClient Http
 
 <div>
-    <Headding />
-    <div class="card-deck">
+    <Headding Title="@Title"/>
+    <div class="card-deck pt-3" style="gap: 30px 0;">
         @foreach (var card in books)
         {
-            <Card CardList="@card"/>
+            @if (books == null)
+            {
+            }
+            else
+            {
+                <Card CardList="@card" CardFlexModifier="@CardFlexModifier" />
+            }
         }
     </div>
 </div>
 
 @code {
-    public List<Book> books;
-    protected override void OnInitialized()
+    /* cardコンテンツ一覧 */
+    /*
+        1. CLEE.inc HP https://clee-inc.com/
+            個人ゲーム開発組織「CLEE」のホームページです。絶賛工事中。
+        2. Veritas (ホラーゲーム) https://github.com/CLEE-inc/clee-veritas
+            探索型ホラー FPS「Veritas」絶賛工事中。
+        3. EDM (ホラーゲーム) https://github.com/CLEE-inc/EDM-DL
+            短編ホラー「EDM」。DLファイル作成中。
+        4. duplicateChecker https://github.com/CLEE-youty/duplicateChecker
+        5. Questa https://alchemy-questa.herokuapp.com/
+        6. do one action https://github.com/alchemyyouty/do-one-action
+    */
+
+    public string Title = "Works";
+    public string CardFlexModifier = "card--3column";
+
+    private List<Book> books { get; set; } = new List<Book>();
+
+    protected override async Task OnInitializedAsync()
     {
-        books = new List<Book>();
-        books.Add(new Book()
-        {
-            Image = "",
-            Title = "あいうえお",
-            Description = ""
-        }
-        );
-        books.Add(new Book()
-        {
-            Image = "",
-            Title = "かきくけこ",
-            Description = ""
-        }
-        );
-        books.Add(new Book()
-        {
-            Image = "",
-            Title = "さしすせそ",
-            Description = ""
-        }
-        );
+        var items = await Http.GetFromJsonAsync<List<Book>>("list-date/ContentList.json");
+        this.books = items;
     }
 }

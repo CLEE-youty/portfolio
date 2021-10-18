@@ -9,9 +9,10 @@
 
 .header[b-y5pde0k6jk] {
     background-color: transparent;
-    position: sticky;
-    height: 100%;
+    position: fixed;
+    width: 100%;
     top: 0;
+    z-index: 1000;
 }
 
 .top-row[b-y5pde0k6jk] {

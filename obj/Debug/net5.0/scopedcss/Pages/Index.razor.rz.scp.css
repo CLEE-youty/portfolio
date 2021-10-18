@@ -1,8 +1,10 @@
 /* layout stlye */
 .main_layout[b-t8ds9oklp0] {
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 0 20px;
 }
 
 .section_layout[b-t8ds9oklp0] {
-    margin: 20px auto;
+    margin: 60px auto 20px;
 }

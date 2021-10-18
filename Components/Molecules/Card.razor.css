@@ -1,2 +1,9 @@
-﻿body {
+﻿/* card flex modifier */
+
+.card--2column {
+}
+
+.card--3column {
+    flex: 1 0 25%;
+    gap: 30px 0;
 }

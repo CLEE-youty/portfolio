@@ -6,14 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="wwwroot\新しいフォルダー\**" />
-    <Content Remove="wwwroot\新しいフォルダー\**" />
-    <EmbeddedResource Remove="wwwroot\新しいフォルダー\**" />
-    <None Remove="wwwroot\新しいフォルダー\**" />
+    <Content Remove="Pages\scss.razor" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Remove="Pages\scss.razor" />
+    <None Remove="Components\Organisms\ByViewList.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Components\Organisms\AboutMe.razor.css" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,23 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <!-- extends watching group to include *.js files -->
-    <Watch Include="**\*.js;**\*.css;**\**\*.css;" Exclude="node_modules\**\*;**\*.js.map;obj\**\*;bin\**\*" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Remove="Components\Atoms\Headding.razor.css" />
-    <None Remove="Components\Molecules\Card.razor.css" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Watch Remove="Components\Atoms\Headding.razor.css" />
-    <Watch Remove="Components\Molecules\Card.razor.css" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="Components\Atoms\Headding.razor.css" />
-    <Content Include="Components\Molecules\Card.razor.css" />
+    <Folder Include="Class\" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,14 @@
+﻿
+.byVew-flex {
+    flex-direction: column;
+}
+
+@media (min-width: 641px) {
+    .flex-equal {
+        flex: 1 0 50%;
+    }
+
+    .byVew-flex {
+        flex-direction: row;
+    }
+}

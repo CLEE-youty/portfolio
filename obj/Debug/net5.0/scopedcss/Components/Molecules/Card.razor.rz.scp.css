@@ -1,2 +1,9 @@
-body[b-1z86mke5ml] {
+/* card flex modifier */
+
+.card--2column[b-1z86mke5ml] {
+}
+
+.card--3column[b-1z86mke5ml] {
+    flex: 1 0 25%;
+    gap: 30px 0;
 }

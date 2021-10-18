@@ -1,10 +1,34 @@
 /* /Components/Atoms/Headding.razor.rz.scp.css */
 h2[b-8sof1jx8k2] {
     text-align: center;
+    color: #ffffff;
+}
+/* /Components/Molecules/ByViewList.razor.rz.scp.css */
+
+.byVew-flex[b-2kjzhongma] {
+    flex-direction: column;
+}
+
+@media (min-width: 641px) {
+    .flex-equal[b-2kjzhongma] {
+        flex: 1 0 50%;
+    }
+
+    .byVew-flex[b-2kjzhongma] {
+        flex-direction: row;
+    }
 }
 /* /Components/Molecules/Card.razor.rz.scp.css */
-body[b-1z86mke5ml] {
+/* card flex modifier */
+
+.card--2column[b-1z86mke5ml] {
 }
+
+.card--3column[b-1z86mke5ml] {
+    flex: 1 0 25%;
+    gap: 30px 0;
+}
+/* /Components/Organisms/AboutMe.razor.rz.scp.css */
 /* /Components/Organisms/FirstView.razor.rz.scp.css */
 /* Color Style */
 .c-white[b-ako71634y3] {
@@ -19,7 +43,7 @@ body[b-1z86mke5ml] {
 /* FV content */
 .fv[b-ako71634y3] {
     width: 100%;
-    height: calc(100vh - 3.5rem);
+    height: 100vh;
     overflow: hidden;
     position: relative;
 }
@@ -102,11 +126,13 @@ body[b-dpfpkfpq6v] {
 /* /Pages/Index.razor.rz.scp.css */
 /* layout stlye */
 .main_layout[b-t8ds9oklp0] {
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 0 20px;
 }
 
 .section_layout[b-t8ds9oklp0] {
-    margin: 20px auto;
+    margin: 60px auto 20px;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-y5pde0k6jk] {
@@ -120,9 +146,10 @@ body[b-dpfpkfpq6v] {
 
 .header[b-y5pde0k6jk] {
     background-color: transparent;
-    position: sticky;
-    height: 100%;
+    position: fixed;
+    width: 100%;
     top: 0;
+    z-index: 1000;
 }
 
 .top-row[b-y5pde0k6jk] {
