@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gydgOAApUE+zIGKlihLzyeJZ23wrTLfilGjlSSd7mI5SF6EX8ra9RIyiLIGTdZ+hT0icT3FkVYI19B+F2danoA==",
+  "dgSpecHash": "gI2CQ8kDC4b7KM8SWzCmvZvterWdMBNrHtiUZFybqKni02Gq7y2s/zGSLv0qz5WhyNTe75DQMjEfjMp6S7f8Bg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ysspe\\Documents\\WorkSpace\\portfolio\\portfolio.csproj",
   "expectedPackageFiles": [
@@ -29,7 +29,8 @@
     "C:\\Users\\ysspe\\.nuget\\packages\\microsoft.jsinterop\\5.0.3\\microsoft.jsinterop.5.0.3.nupkg.sha512",
     "C:\\Users\\ysspe\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.3\\microsoft.jsinterop.webassembly.5.0.3.nupkg.sha512",
     "C:\\Users\\ysspe\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
-    "C:\\Users\\ysspe\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+    "C:\\Users\\ysspe\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\ysspe\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.3\\microsoft.netcore.app.runtime.browser-wasm.5.0.3.nupkg.sha512"
   ],
   "logs": []
 }
