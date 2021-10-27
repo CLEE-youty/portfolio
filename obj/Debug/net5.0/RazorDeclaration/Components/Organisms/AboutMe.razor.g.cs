@@ -124,7 +124,7 @@ using System.Collections.Generic;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 11 "C:\Users\ysspe\Documents\WorkSpace\portfolio\Components\Organisms\AboutMe.razor"
+#line 13 "C:\Users\ysspe\Documents\WorkSpace\portfolio\Components\Organisms\AboutMe.razor"
        
     public string Title = "About Me";
     private List<ByView> byViewContent { get; set; }

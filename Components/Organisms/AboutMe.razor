@@ -1,11 +1,13 @@
 ﻿@using System.Collections.Generic;
 
 <div>
-    <Headding Title="@Title" />
-    @foreach (var item in byViewContent)
-    {
-        <ByViewList Item="@item" />
-    }
+    <div class="about_shadow">
+        <Headding Title="@Title" />
+        @foreach (var item in byViewContent)
+        {
+            <ByViewList Item="@item" />
+        }
+    </div>
 </div>
 
 @code {

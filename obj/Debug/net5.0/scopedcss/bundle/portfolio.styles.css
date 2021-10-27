@@ -38,6 +38,9 @@ card_shadow[b-1z86mke5ml] {
         rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 /* /Components/Organisms/AboutMe.razor.rz.scp.css */
+about_shadow[b-e6j2rtgjah] {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
 /* /Components/Organisms/FirstView.razor.rz.scp.css */
 /* Color Style */
 .c-white[b-ako71634y3] {
@@ -146,6 +149,7 @@ body[b-dpfpkfpq6v] {
 
 .byView_content[b-t8ds9oklp0] {
     margin: 20px 0 0;
+    padding: 1.25rem;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-y5pde0k6jk] {

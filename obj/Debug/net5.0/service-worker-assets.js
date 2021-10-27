@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-GefgYyY113E5MzYYPmbHRY+Na8kndhJ\/0BCD+5S7lFs=",
+      "hash": "sha256-gdzuNToCIZvB9obtFugqfOQLg23R804gWC3Hk6LEXz4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -785,11 +785,11 @@
       "url": "_framework\/dotnet.5.0.3.js"
     },
     {
-      "hash": "sha256-xwExF\/\/1C2paIzrGOp4\/H5tdhV4G06GEezdEHmawE1w=",
+      "hash": "sha256-40edtcY8hFgejWGpCFAjTq1X5ceLYjEP7YSVB5fBTTg=",
       "url": "_framework\/portfolio.dll"
     },
     {
-      "hash": "sha256-NZ5qsV6LaLm4KqmMEIEJlmdLE\/v\/xvxjGWhX83q98\/A=",
+      "hash": "sha256-jgK3l4P2lADiczV9cmYf7nnoCcL65qODnzepmJiqJWY=",
       "url": "_framework\/portfolio.pdb"
     },
     {
@@ -1633,11 +1633,15 @@
       "url": "icon-512.png"
     },
     {
+      "hash": "sha256-dkc1nr6ycIXUPum57f++RxMuGrxCH\/X\/gSXpyOLSvRY=",
+      "url": "img\/clee_logo_c.png"
+    },
+    {
       "hash": "sha256-Spf6jTo+2lnT2tQx1ahgrwk9RvsLkujp9Eton97UX98=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-L4JO8ZZj7cRhb+qQ1WCmaod4EY6+tmOl0A7jk029ja4=",
+      "hash": "sha256-z8cZEhsgRud9+q4upbfHBXUYsPn8F5I25K7sV02pZeg=",
       "url": "list-date\/ContentList.json"
     },
     {
@@ -1649,13 +1653,13 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-GfkXWxEh8OiYBPqMGFJnnB9D549Id9yU0imFOtQMSpo=",
+      "hash": "sha256-gge76aVToHJmDlV+rrM4\/OtSRYUtLnqBoTDjUerlTy8=",
       "url": "portfolio.styles.css"
     },
     {
-      "hash": "sha256-6NUMtWlsRu+Ezea572z+QoU+Ng62WWA7pavj1sGNLDM=",
+      "hash": "sha256-t+77itvN08KaNePiCGweeylDsaGyrnt8NDTlJm0igVs=",
       "url": "portfolio.bundle.scp.css"
     }
   ],
-  "version": "p7T7JoYx"
+  "version": "hRGmPkOh"
 };

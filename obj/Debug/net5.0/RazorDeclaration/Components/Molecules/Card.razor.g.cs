@@ -118,7 +118,7 @@ using BlazorLang;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 11 "C:\Users\ysspe\Documents\WorkSpace\portfolio\Components\Molecules\Card.razor"
+#line 12 "C:\Users\ysspe\Documents\WorkSpace\portfolio\Components\Molecules\Card.razor"
        
     [Parameter]
     public Book CardList { get; set; }
