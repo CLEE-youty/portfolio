@@ -1653,13 +1653,13 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-gge76aVToHJmDlV+rrM4\/OtSRYUtLnqBoTDjUerlTy8=",
+      "hash": "sha256-Hb78RwCuQKlo2m8CsUldPIcBf7JZfWO4q5Xtrrx5jGY=",
       "url": "portfolio.styles.css"
     },
     {
-      "hash": "sha256-t+77itvN08KaNePiCGweeylDsaGyrnt8NDTlJm0igVs=",
+      "hash": "sha256-Ph0ebXQ7SZHMx72R+PJ0uX9HfRxIiakpCko80qIebcg=",
       "url": "portfolio.bundle.scp.css"
     }
   ],
-  "version": "hRGmPkOh"
+  "version": "6WVMQ\/H6"
 };
