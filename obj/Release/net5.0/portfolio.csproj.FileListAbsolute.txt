@@ -654,3 +654,5 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Release\net5.0\ref\portfolio.dl
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Release\net5.0\portfolio.pdb
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Release\net5.0\serviceworkers\wwwroot\service-worker.js
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Release\net5.0\service-worker-assets.js
+C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Release\net5.0\package-lock.json
+C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Release\net5.0\package.json
