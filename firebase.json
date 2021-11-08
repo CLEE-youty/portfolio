@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/wwwroot",
+    "public": "portfolio/bin/Release/net5.0/browser-wasm/publish/dist/wwwroot",
     "ignore": [
       "firebase.json",
       "**/.*",
