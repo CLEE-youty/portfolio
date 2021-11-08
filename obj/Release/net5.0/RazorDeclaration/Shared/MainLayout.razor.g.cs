@@ -82,6 +82,34 @@ using portfolio.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 13 "C:\Users\ysspe\Documents\WorkSpace\portfolio\_Imports.razor"
+using portfolio.Components.Atoms;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "C:\Users\ysspe\Documents\WorkSpace\portfolio\_Imports.razor"
+using portfolio.Components.Molecules;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "C:\Users\ysspe\Documents\WorkSpace\portfolio\_Imports.razor"
+using portfolio.Components.Organisms;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 18 "C:\Users\ysspe\Documents\WorkSpace\portfolio\_Imports.razor"
+using BlazorLang;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998

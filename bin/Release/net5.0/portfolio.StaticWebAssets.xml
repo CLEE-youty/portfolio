@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Release\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Release\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>

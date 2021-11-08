@@ -1,0 +1,135 @@
+/* Color Style */
+.c-white[b-ako71634y3] {
+    color: #FFFFFF;
+}
+
+/* Font Style */
+.futura-m[b-ako71634y3] {
+    font-family: "futura_m";
+}
+
+
+/* title */
+.main_title_text[b-ako71634y3] {
+    font-family: "futura_m";
+    line-height: 1;
+    letter-spacing: 0.1em;
+    margin-bottom: 1.6rem;
+    text-shadow: 0 10px 30px rgb(2 11 22 / 50%);
+}
+
+/* FV content */
+.fv[b-ako71634y3] {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+/* title */
+.title[b-ako71634y3] {
+    overflow: hidden;
+    z-index: 200;
+    margin-left: 11%;
+    margin-top: 50%;
+}
+
+.main_title_description[b-ako71634y3] {
+    font-family: "futura_r";
+    font-size: 1.4rem;
+    line-height: 1.5;
+    letter-spacing: 0.1em;
+    text-shadow: 0 10px 30px rgb(2 11 22 / 50%);
+}
+
+
+/* logo */
+.blazor[b-ako71634y3] {
+    display: flex;
+    align-items: center;
+    margin-left: 11%;
+}
+
+.logo[b-ako71634y3] {
+    position: relative;
+    width: 40%;
+    height: 40%;
+}
+
+.main_logo[b-ako71634y3] {
+    position: absolute;
+    top: 145%;
+    transform: translate3d(0, -50%, 0);
+}
+
+.main_logo_text[b-ako71634y3] {
+    font-family: "futura_b";
+    font-size: 2.5rem;
+    letter-spacing: 0.1em;
+    text-shadow: 0 10px 15px rgb(2 11 22 / 20%);
+    color: #ff4d5a;
+}
+
+/* moon logo */
+.moon_logo[b-ako71634y3] {
+    margin-left: -35px;
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+    box-shadow: 70px 70px 0 0 #d0d5d2;
+}
+
+@media (min-width: 641px) {
+
+    .main_title_text[b-ako71634y3] {
+        font-size: 6.2rem;
+    }
+
+    /* FV content */
+    .fv[b-ako71634y3] {
+        width: 100%;
+        height: 100vh;
+        overflow: hidden;
+        position: relative;
+    }
+
+    /* title */
+    .title[b-ako71634y3] {
+        position: absolute;
+        top: 50%;
+        transform: translate3d(0, -50%, 0);
+        margin-top: 0;
+    }
+
+    /* logo */
+    .blazor[b-ako71634y3] {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 29.427%;
+        margin: auto;
+        height: 1385px;
+        width: 800px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main_logo[b-ako71634y3] {
+        left: -15.5963%;
+        top: 50%;
+    }
+
+    .main_logo_text[b-ako71634y3] {
+        font-size: 5.8rem;
+    }
+
+    /* moon logo */
+    .moon_logo[b-ako71634y3] {
+        height: 400px;
+        width: 400px;
+        border-radius: 50%;
+    }
+}
