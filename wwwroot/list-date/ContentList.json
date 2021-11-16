@@ -2,31 +2,37 @@
   {
     "image": "/img/clee_logo_c.png",
     "title": "CLEE.inc HP",
-    "description": "This is the homepage of the personal game development organization 'CLEE'. Under construction."
+    "description": "This is the homepage of the personal game development organization 'CLEE'. Under construction.",
+    "link": "https://clee-inc.com/"
   },
   {
     "image": "/img/clee_logo_c.png",
     "title": "Veritas",
-    "description": "This is a search-type horror FPS 'Veritas' under construction."
+    "description": "This is a search-type horror FPS 'Veritas' under construction.",
+    "link": "https://clee-inc.com/"
   },
   {
     "image": "/img/clee_logo_c.png",
     "title": "EDM",
-    "description": "This is a short horror titled 'EDM'. DL file is being created."
+    "description": "This is a short horror titled 'EDM'. DL file is being created.",
+    "link": "https://clee-inc.com/"
   },
   {
     "image": "/img/clee_logo_c.png",
     "title": "duplicateChecker",
-    "description": ""
+    "description": "",
+    "link": "https://chrome.google.com/webstore/detail/duplicatechecker/lfangeedjgekfecjajlpofnghhjofinl"
   },
   {
     "image": "/img/clee_logo_c.png",
     "title": "Questa",
-    "description": ""
+    "description": "",
+    "link": "https://alchemy-questa.herokuapp.com//"
   },
   {
     "image": "/img/clee_logo_c.png",
     "title": "do one action",
-    "description": ""
+    "description": "",
+    "link": "https://clee-inc.com/"
   }
 ]

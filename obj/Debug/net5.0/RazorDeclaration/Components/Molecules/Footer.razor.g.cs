@@ -110,24 +110,13 @@ using BlazorLang;
 #line default
 #line hidden
 #nullable disable
-    public partial class Card : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class Footer : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 15 "C:\Users\ysspe\Documents\WorkSpace\portfolio\Components\Molecules\Card.razor"
-       
-    [Parameter]
-    public Book CardList { get; set; }
-    [Parameter]
-    public string CardFlexModifier { get; set; }
-
-#line default
-#line hidden
-#nullable disable
     }
 }
 #pragma warning restore 1591

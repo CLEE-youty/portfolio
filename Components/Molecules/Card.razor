@@ -1,13 +1,16 @@
 ﻿
 
 @* CardFlexModifier => card--3column or card--3column *@
-<div class="card card_shadow @CardFlexModifier" style="box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; ">
-    <img src="@CardList.Image" />
-    <div class="card-body">
-
-        <h5 class="card-title">@CardList.Title</h5>
-        <p class="card-text">@CardList.Description</p>
-    </div>
+<div class="card card_shadow @CardFlexModifier">
+    <a class="card-link" href="@CardList.Link" target="_blank" rel="noopener">
+        <div class="card-content">
+            <img class="card-img" src="@CardList.Image" />
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@CardList.Title</h5>
+            <p class="card-text">@CardList.Description</p>
+        </div>
+    </a>
 </div>
 @code {
     [Parameter]

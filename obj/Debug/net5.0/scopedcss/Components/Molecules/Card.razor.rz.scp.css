@@ -5,14 +5,27 @@
 
 .card--3column[b-1z86mke5ml] {
     flex: 1 0 25%;
-    gap: 30px 0;
 }
 
-card_shadow[b-1z86mke5ml] {
+.card_shadow[b-1z86mke5ml] {
     box-shadow:
         rgba(0, 0, 0, 0.25) 0px 54px 55px,
         rgba(0, 0, 0, 0.12) 0px -12px 30px,
         rgba(0, 0, 0, 0.12) 0px 4px 6px,
         rgba(0, 0, 0, 0.17) 0px 12px 13px,
         rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.card-link[b-1z86mke5ml] {
+    color: black;
+
+}
+
+/* card img container */
+.card-content[b-1z86mke5ml] {
+    padding: 32px;
+}
+
+.card-title[b-1z86mke5ml] {
+    font-weight: 800;
 }

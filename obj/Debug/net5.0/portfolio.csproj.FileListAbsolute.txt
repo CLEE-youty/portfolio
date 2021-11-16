@@ -1289,4 +1289,10 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\ref\portfolio.dll
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\portfolio.pdb
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\service-worker-assets.js
+C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\firebase.json
+C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\package-lock.json
+C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\package.json
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Molecules\Footer.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Molecules\Footer.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Molecules\Footer.razor.rz.scp.css
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\portfolio.csprojAssemblyReference.cache
