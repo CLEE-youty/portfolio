@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace BlazorLang
 {
-    public partial class ByView
+    public partial class View
     {
-        public string ByViewTitle { get; set; }
-        public string ByViewHeadding { get; set; }
-        public string ByViewSmallHeadding { get; set; }
-        public string ByViewDescription { get; set; }
+        public string ViewTitle { get; set; }
+        public string ViewHeadding { get; set; }
+        public string ViewSmallHeadding { get; set; }
+        public string ViewDescription { get; set; }
     }
 }

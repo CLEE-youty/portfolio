@@ -46,13 +46,25 @@ h2[b-8sof1jx8k2] {
 
 /* card img container */
 .card-content[b-1z86mke5ml] {
+    display: flex;
     padding: 32px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
 }
 
 .card-title[b-1z86mke5ml] {
     font-weight: 800;
 }
+
+.card-img[b-1z86mke5ml] {
+    max-width: 220px;
+}
 /* /Components/Molecules/Footer.razor.rz.scp.css */
+/* /Components/Molecules/SoloViewList.razor.rz.scp.css */
+.mw-320[b-mjxg3gtdvs] {
+    max-width: 320px;
+}
 /* /Components/Organisms/AboutMe.razor.rz.scp.css */
 about_shadow[b-e6j2rtgjah] {
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
@@ -86,6 +98,9 @@ about_shadow[b-e6j2rtgjah] {
     position: relative;
     display: flex;
     flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 /* title */
@@ -193,7 +208,7 @@ about_shadow[b-e6j2rtgjah] {
         position: absolute;
         top: 50%;
         transform: translate3d(0, -50%, 0);
-        margin-top: 0;
+        margin: 0;
     }
 
     /* logo */

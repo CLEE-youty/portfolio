@@ -635,7 +635,10 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\portfolio\obj\Debug\net5.0\portfoli
 C:\Users\ysspe\Documents\WorkSpace\portfolio\portfolio\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
 C:\Users\ysspe\Documents\WorkSpace\portfolio\portfolio\obj\Debug\net5.0\service-worker-assets.js
 C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\firebase.json
 C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\libman.json
+C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\package-lock.json
+C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\package.json
 C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\portfolio.StaticWebAssets.xml
 C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\portfolio.dll
 C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\ref\portfolio.dll
@@ -1035,6 +1038,7 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\wwwroot\_framework
 C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
 C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
 C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.3.js
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\portfolio.csprojAssemblyReference.cache
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\portfolio.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\portfolio.AssemblyInfoInputs.cache
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\portfolio.AssemblyInfo.cs
@@ -1049,6 +1053,8 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\_
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Atoms\Headding.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Molecules\ByViewList.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Molecules\Card.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Molecules\Footer.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Molecules\SoloViewList.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Organisms\AboutMe.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Organisms\FirstView.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Organisms\StandardPageList.razor.g.cs
@@ -1068,6 +1074,8 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\_Imports.raz
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Atoms\Headding.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Molecules\ByViewList.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Molecules\Card.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Molecules\Footer.razor.g.cs
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Molecules\SoloViewList.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Organisms\AboutMe.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Organisms\FirstView.razor.g.cs
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Organisms\StandardPageList.razor.g.cs
@@ -1274,6 +1282,8 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\staticwebassets\po
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Atoms\Headding.razor.rz.scp.css
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Molecules\ByViewList.razor.rz.scp.css
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Molecules\Card.razor.rz.scp.css
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Molecules\Footer.razor.rz.scp.css
+C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Molecules\SoloViewList.razor.rz.scp.css
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Organisms\AboutMe.razor.rz.scp.css
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Organisms\FirstView.razor.rz.scp.css
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Organisms\StandardPageList.razor.rz.scp.css
@@ -1289,10 +1299,3 @@ C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\ref\portfolio.dll
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\portfolio.pdb
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
 C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\service-worker-assets.js
-C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\firebase.json
-C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\package-lock.json
-C:\Users\ysspe\Documents\WorkSpace\portfolio\bin\Debug\net5.0\package.json
-C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\RazorDeclaration\Components\Molecules\Footer.razor.g.cs
-C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\Razor\Components\Molecules\Footer.razor.g.cs
-C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\scopedcss\Components\Molecules\Footer.razor.rz.scp.css
-C:\Users\ysspe\Documents\WorkSpace\portfolio\obj\Debug\net5.0\portfolio.csprojAssemblyReference.cache

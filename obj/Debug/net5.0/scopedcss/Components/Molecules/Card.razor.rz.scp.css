@@ -23,9 +23,17 @@
 
 /* card img container */
 .card-content[b-1z86mke5ml] {
+    display: flex;
     padding: 32px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
 }
 
 .card-title[b-1z86mke5ml] {
     font-weight: 800;
+}
+
+.card-img[b-1z86mke5ml] {
+    max-width: 220px;
 }

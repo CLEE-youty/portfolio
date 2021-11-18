@@ -1,16 +1,16 @@
 ﻿
 <div class="byVew-flex d-flex justify-content-center">
     <div class="text-light flex-equal">
-        <h3>@Item.ByViewTitle</h3>
+        <h3>@Item.ViewTitle</h3>
     </div>
     <div class="text-light flex-equal">
-        <h3>@Item.ByViewHeadding</h3>
-        <h4>@Item.ByViewSmallHeadding</h4>
-        <p>@Item.ByViewDescription</p>
+        <h3>@Item.ViewHeadding</h3>
+        <h4>@Item.ViewSmallHeadding</h4>
+        <p>@Item.ViewDescription</p>
     </div>
 </div>
 
 @code {
     [Parameter]
-    public ByView Item { get; set; }
+    public View Item { get; set; }
 }

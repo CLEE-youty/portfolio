@@ -121,7 +121,7 @@ using BlazorLang;
 #line 13 "C:\Users\ysspe\Documents\WorkSpace\portfolio\Components\Molecules\ByViewList.razor"
        
     [Parameter]
-    public ByView Item { get; set; }
+    public View Item { get; set; }
 
 #line default
 #line hidden

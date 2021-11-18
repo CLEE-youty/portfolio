@@ -127,16 +127,16 @@ using System.Collections.Generic;
 #line 13 "C:\Users\ysspe\Documents\WorkSpace\portfolio\Components\Organisms\AboutMe.razor"
        
     public string Title = "About Me";
-    private List<ByView> byViewContent { get; set; }
+    private List<View> ViewContent { get; set; }
     protected override void OnInitialized()
     {
-        this.byViewContent = new List<ByView>();
-        this.byViewContent.Add(new ByView()
+        this.ViewContent = new List<View>();
+        this.ViewContent.Add(new View()
         {
-            ByViewTitle = "Who am I",
-            ByViewHeadding = "齋藤 雄太",
-            ByViewSmallHeadding = "YUTA SAITO",
-            ByViewDescription = "1996年、神奈川県生まれ。大学を卒業後、都内のIT関連会社でフロントエンドエンジニアとして就職。大手飲食店決済サービス関連会社のWEB運用・保守業務に従事しながら、社内の経営、教育、人事、企画など様々な業務に取り組む。他方で、Unityを使った個人のゲーム開発活動も開始。"
+            ViewTitle = "Who am I",
+            ViewHeadding = "齋藤 雄太",
+            ViewSmallHeadding = "YUTA SAITO",
+            ViewDescription = "1996年、神奈川県生まれ。大学を卒業後、都内のIT関連会社でフロントエンドエンジニアとして就職。大手飲食店決済サービス関連会社のWEB運用・保守業務に従事しながら、社内の経営、教育、人事、企画など様々な業務に取り組む。他方で、Unityを使った個人のゲーム開発活動も行っている。"
         });
     }
 
