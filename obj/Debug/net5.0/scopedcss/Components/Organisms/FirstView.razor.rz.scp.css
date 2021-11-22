@@ -144,10 +144,11 @@
         position: absolute;
         top: 0;
         bottom: 0;
-        left: 29.427%;
+        right: 0;
         margin: auto;
+        margin-right: 50px;
         height: 1385px;
-        width: 88vw;
+        width: 577px;
         display: flex;
         align-items: center;
         justify-content: center;

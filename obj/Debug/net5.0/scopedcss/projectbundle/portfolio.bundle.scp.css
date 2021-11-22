@@ -21,8 +21,19 @@ h2[b-8sof1jx8k2] {
     }
 }
 /* /Components/Molecules/Card.razor.rz.scp.css */
-/* card flex modifier */
 
+/* card container */
+.card[b-1z86mke5ml] {
+    transition: box-shadow 0.3s, transform 0.3s, filter 0.3s;
+}
+
+.card:hover[b-1z86mke5ml] {
+    box-shadow:0 6px 14px rgba(0, 0, 0, 0.24);
+    transform:translate(0, -3px);
+    filter:saturate(0);
+}
+
+/* card flex modifier */
 .card--2column[b-1z86mke5ml] {
 }
 
@@ -41,7 +52,6 @@ h2[b-8sof1jx8k2] {
 
 .card-link[b-1z86mke5ml] {
     color: black;
-
 }
 
 /* card img container */
@@ -52,6 +62,7 @@ h2[b-8sof1jx8k2] {
     align-items: center;
     justify-content: center;
 }
+
 
 .card-title[b-1z86mke5ml] {
     font-weight: 800;
@@ -65,10 +76,16 @@ h2[b-8sof1jx8k2] {
 .mw-320[b-mjxg3gtdvs] {
     max-width: 320px;
 }
-/* /Components/Organisms/AboutMe.razor.rz.scp.css */
-about_shadow[b-e6j2rtgjah] {
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+.card-img[b-mjxg3gtdvs] {
+    transition: box-shadow 0.3s, filter 0.3s;
 }
+
+.card-img:hover[b-mjxg3gtdvs] {
+    box-shadow:0 6px 14px rgba(0, 0, 0, 0.24);
+    filter:saturate(0);
+}
+/* /Components/Organisms/AboutMe.razor.rz.scp.css */
 /* /Components/Organisms/FirstView.razor.rz.scp.css */
 /* Color Style */
 .c-white[b-ako71634y3] {
@@ -216,10 +233,11 @@ about_shadow[b-e6j2rtgjah] {
         position: absolute;
         top: 0;
         bottom: 0;
-        left: 29.427%;
+        right: 0;
         margin: auto;
+        margin-right: 50px;
         height: 1385px;
-        width: 88vw;
+        width: 577px;
         display: flex;
         align-items: center;
         justify-content: center;

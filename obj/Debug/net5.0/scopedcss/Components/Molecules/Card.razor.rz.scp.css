@@ -1,5 +1,16 @@
-/* card flex modifier */
 
+/* card container */
+.card[b-1z86mke5ml] {
+    transition: box-shadow 0.3s, transform 0.3s, filter 0.3s;
+}
+
+.card:hover[b-1z86mke5ml] {
+    box-shadow:0 6px 14px rgba(0, 0, 0, 0.24);
+    transform:translate(0, -3px);
+    filter:saturate(0);
+}
+
+/* card flex modifier */
 .card--2column[b-1z86mke5ml] {
 }
 
@@ -18,7 +29,6 @@
 
 .card-link[b-1z86mke5ml] {
     color: black;
-
 }
 
 /* card img container */
@@ -29,6 +39,7 @@
     align-items: center;
     justify-content: center;
 }
+
 
 .card-title[b-1z86mke5ml] {
     font-weight: 800;

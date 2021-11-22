@@ -1,3 +1,12 @@
 .mw-320[b-mjxg3gtdvs] {
     max-width: 320px;
 }
+
+.card-img[b-mjxg3gtdvs] {
+    transition: box-shadow 0.3s, filter 0.3s;
+}
+
+.card-img:hover[b-mjxg3gtdvs] {
+    box-shadow:0 6px 14px rgba(0, 0, 0, 0.24);
+    filter:saturate(0);
+}
